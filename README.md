@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pratyush Ranjan</h1>
 <h3 align="center">A Passionate Developer from India 🇮🇳</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=pratyushranjn&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
-## 🚀 About Me
 
 - 🔭 Currently working on **MERN Stack & Cloud Computing**
 - ☁️ I’m currently learning **Amazon Web Services (AWS)**
@@ -16,7 +13,6 @@
 - 📫 Reach me at: **ranjanpratyush6@gmail.com**
 - 🎯 Goal: Grow into a highly skilled Software Engineer
 
----
 
 ## 📌 Featured Projects
 
@@ -25,7 +21,6 @@
 -  [Wave Tune – Music Player](https://wavetune-fvip.onrender.com)
 -  [Postman Lite](https://pratyush-api.vercel.app)
 
----
 
 ## Connect with me:
 
@@ -39,7 +34,6 @@
 </a>
 </p>
 
----
 
 ## Languages and Tools
 <p align="center">
@@ -77,8 +71,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 </p>
-
----
 
 ## 📊 GitHub Stats
 
