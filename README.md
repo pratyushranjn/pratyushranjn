@@ -9,7 +9,7 @@
 - 🔭 Currently working on **MERN Stack & Cloud Computing**
 - ☁️ I’m currently learning **Amazon Web Services (AWS)**
 - 👨‍💻 All of my projects are available at [its-pratyush.web.app](https://its-pratyush.web.app)
-- 💬 Ask me about **Node.js, React, PostgreSQL, MongoDB** Etc.
+- 💬 Ask me about **Node.js, Express.js, PostgreSQL, MongoDB** Etc.
 - 📫 Reach me at: **ranjanpratyush6@gmail.com**
 - 🎯 Goal: Grow into a highly skilled Software Engineer
 
